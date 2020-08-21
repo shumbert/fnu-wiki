@@ -1,26 +1,26 @@
 # Food
-- [breakfast](breakfast.md)
-- [ingrediens](ingredients.md)
-- [links](links.md)
+- [breakfast](food/breakfast.md)
+- [ingrediens](food/ingredients.md)
+- [links](food/links.md)
 
 # Gaming
-- [switch](switch.md)
+- [switch](gaming/switch.md)
 
 # Mandarin
-- [links](links.md)
+- [links](mandarin/links.md)
 
 # Miscellaneous links
-- [links](links.md)
+- [links](misellaneous/links.md)
 
 # Photography
-- [camera](camera.md)
-- [monitor calibration](monitor-calibration.md)
-- [capture one](captureone.md)
-- [composition](composition.md)
-- [darktable](darktable.md)
-- [exposure](exposure.md)
-- [focus](focus.md)
-- [workflow](workflow.md)
+- [camera](photography/camera.md)
+- [monitor calibration](photography/monitor-calibration.md)
+- [capture one](photography/captureone.md)
+- [composition](photography/composition.md)
+- [darktable](photography/darktable.md)
+- [exposure](photography/exposure.md)
+- [focus](photography/focus.md)
+- [workflow](photography/workflow.md)
 
 # Piano
-- [links](links.md)
+- [links](piano/links.md)
