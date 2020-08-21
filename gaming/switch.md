@@ -1,0 +1,12 @@
+# MicroSD card
+- In order to use a microSDXC card (64GB or more) on the Nintendo Switch console, a system update is required.
+- UHS-I (Ultra High Speed Phase I) compatible, transfer speed 60 - 95 MB/sec (the higher the transfer speed, the better gameplay experience on Nintendo Switch) 
+- It’s worth noting upfront that the Switch only supports UHS-I microSD cards, not the newer UHS-II or UHS-III bus rates. 
+- What information can be saved to a microSD card on Nintendo Switch:
+  - Downloadable software
+  - Software update data
+  - Downloadable content (DLC)
+  - Screenshots and captured videos
+  - Important: Game save data is stored to the System Memory and cannot be copied or saved to a microSD card.
+- Recommended microSD card:
+  - SanDisk 256GB Ultra microSDXC UHS-I 100MB/s
