@@ -8,14 +8,7 @@
 - bread
 
 # English breakfast
-- omelettes
-- english breakfast: eggs, tomatoes, mushrooms, sausage
+- https://www.youtube.com/watch?v=HRtpV_j-Lqo
+
 - huevos rancheros
 - https://www.jamieoliver.com/recipes/eggs-recipes/mexican-refried-bea
-
-ingredients:
-- eggs of course
-- chorizo sausages
-- cheese
-- tomatoes
-- mushrooms/avocadoes
