@@ -1,8 +1,10 @@
 # To try
-- https://www.foodnetwork.com/recipes/food-network-kitchen/quick-spicy-chili-5458466
-- https://www.youtube.com/watch?v=WoOA8SRpK34 (spicy mongolian beef)
-- https://www.youtube.com/watch?v=UzFoThs2Qpw
-- https://www.onceuponachef.com/recipes/chipotle-chicken-quesadillas.html
+- [Binging with Babish: Nashville Hot Chicken](https://www.youtube.com/watch?v=FPx7X7k0HuM)
+- [Binging with Babish: Egg Tarts](https://www.youtube.com/watch?v=F2ENkOF3fMQ)
+- [Nasi goreng](https://www.youtube.com/watch?v=NybhwoK6am0)
+  - sambal
+  - kecap manis (sweet soy sauce)
+  - rendang paste
 
 # Links
 - [Qué buen lomo](https://elcomercio.pe/blog/sobremesa/2014/05/que-buen-lomo-gaston-acurio)
@@ -11,7 +13,6 @@
 - [Dan Dan Noodles – A Spicy Sichuan Noodle Dish](https://thewoksoflife.com/dan-dan-noodles/)
 - [Boeuf bourguignon](https://www.youtube.com/watch?v=72pXASYZXoQ)
 - [Binging with Babish: Boeuf Bourguignon from Julie & Julia](https://www.youtube.com/watch?v=8DCw_eR_iPA)
-- [Binging with Babish: Nashville Hot Chicken](https://www.youtube.com/watch?v=FPx7X7k0HuM)
 
 
 # Harissa sauce
