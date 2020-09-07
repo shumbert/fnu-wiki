@@ -102,18 +102,6 @@ White balance setting:
 - indoor shooting w/ household lighting: tungsten
 - indoor shooting w/ office lighting: florescent
 
-# Filters
-## Polarizing filters
-- reduce glare from reflective surfaces, such as glass, metal and water
-- greatest glare comes from vertical light waves, and glare is most intense when the sun is at a 90-degree angle to you
-- the filter blocks out vertical light, allowing the more pleasing and saturated colors created by horizontal light to be recorded
-- most effective when shooting at 90-degree angle to the sun (midday, or shooting north or south in morning or late-afternoon)
-
-## Neutral-density filters
-- knock down the overall brightness without interfering with the overall color
-- it allows you to use larger lens opening (resulting in shallower depth of field) or slower shutter speeds
-- some neutral-density filters are gradual
-
 # Misc
 If not possible to get dead-center in the light meter, aim for 1/3 or 2/3 stops **below** center.
 

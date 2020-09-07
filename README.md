@@ -13,14 +13,21 @@
 - [links](misellaneous/links.md)
 
 # Photography
-- [camera](photography/camera.md)
-- [monitor calibration](photography/monitor-calibration.md)
-- [capture one](photography/captureone.md)
-- [composition](photography/composition.md)
-- [darktable](photography/darktable.md)
-- [exposure](photography/exposure.md)
-- [focus](photography/focus.md)
-- [workflow](photography/workflow.md)
+- Shooting
+  - [camera](camera.md)
+  - [composition](composition.md)
+  - [exposure](exposure.md)
+  - [filters](filters.md)
+  - [focus](focus.md)
+  - [tripod](tripod.md)
+- Editing
+  - [captureone](captureone.md)
+  - [darktable](darktable.md)
+  - [tone curve](tone-curve.md)
+  - [workflow](workflow.md)
+- [apps](apps.md)
+- [links](links.md)
+- [photographers](photographers.md)
 
 # Piano
 - [links](piano/links.md)
