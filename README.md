@@ -17,9 +17,9 @@
   - [camera](photography/shooting/camera.md)
   - [composition](photography/shooting/composition.md)
   - [exposure](photography/shooting/exposure.md)
-  - [filters]((photography/shooting/filters.md)
-  - [focus]((photography/shooting/focus.md)
-  - [tripod]((photography/shooting/tripod.md)
+  - [filters](photography/shooting/filters.md)
+  - [focus](photography/shooting/focus.md)
+  - [tripod](photography/shooting/tripod.md)
 - Editing
   - [captureone](photography/editing/captureone.md)
   - [darktable](photography/editing/darktable.md)
