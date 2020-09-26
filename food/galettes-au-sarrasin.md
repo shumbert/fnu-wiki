@@ -2,6 +2,7 @@
 - https://onruetatin.com/recipe/galettes-au-sarrasin-buckwheat-galettes/
 - https://www.eatlivetravelwrite.com/2019/09/french-fridays-buckwheat-crepes/
 - https://www.youtube.com/watch?v=y2z0m0Xlc-o
+- https://www.youtube.com/watch?v=DZCRAf9QY20
 
 # Batter
 - 3/4 cup (105 g) buckwheat flour
