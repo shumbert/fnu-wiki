@@ -1,5 +1,7 @@
 # Food
 - [breakfast](food/breakfast.md)
+- [galettes au sarrasin](food/galettes-au-sarrasin.md)
+- [hashbrowns](food/hashbrowns.md)
 - [ingrediens](food/ingredients.md)
 - [links](food/links.md)
 
