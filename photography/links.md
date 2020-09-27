@@ -7,3 +7,6 @@
 # Monitor Calibration
 - http://www.lagom.nl/lcd-test/contrast.php
 - https://www.photofriday.com/info/calibrate
+
+# Street photography
+- [YT Classic Polly - Camera Settings for Street Photography - Fujifilm X-T3](https://www.youtube.com/watch?v=eggAauudpFM)
