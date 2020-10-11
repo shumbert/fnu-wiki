@@ -6,6 +6,7 @@
   - kecap manis (sweet soy sauce)
   - rendang paste
 - [YT - Black pepper sauce](https://www.youtube.com/watch?v=FlyR4GWbvOc)
+- [Chicken Tagine Mchermel](https://www.youtube.com/watch?v=TpsUQ7SbTXs_
 
 # Links
 - [Qué buen lomo](https://elcomercio.pe/blog/sobremesa/2014/05/que-buen-lomo-gaston-acurio)
@@ -14,11 +15,6 @@
 - [Dan Dan Noodles – A Spicy Sichuan Noodle Dish](https://thewoksoflife.com/dan-dan-noodles/)
 - [Boeuf bourguignon](https://www.youtube.com/watch?v=72pXASYZXoQ)
 - [Binging with Babish: Boeuf Bourguignon from Julie & Julia](https://www.youtube.com/watch?v=8DCw_eR_iPA)
-
-
-# Harissa sauce
-- https://www.youtube.com/watch?v=JIUbNc6gW2Q
-- https://www.youtube.com/watch?v=bbB-eqL9-IM
 
 # Youtube - pro home cooks
 - [15 Mistakes to Avoid When Making Pizza at Home](https://www.youtube.com/watch?v=7UB1saPQe-c)
