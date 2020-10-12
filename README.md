@@ -1,9 +1,12 @@
 # Food
 - [breakfast](food/breakfast.md)
-- [galettes au sarrasin](food/galettes-au-sarrasin.md)
-- [hashbrowns](food/hashbrowns.md)
 - [ingrediens](food/ingredients.md)
 - [links](food/links.md)
+
+## Recipes
+- [Galettes au sarrasin](food/recipes/galettes-au-sarrasin.md)
+- [Hashbrowns](food/recipes/hashbrowns.md)
+- [Kimchi fried rice](food/recipes/kimchi-fried-rice.md)
 
 # Gaming
 - [switch](gaming/switch.md)
