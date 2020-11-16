@@ -4,6 +4,8 @@
 - [links](food/links.md)
 
 ## Recipes
+- [Baked beans](food/recipes/baked-beans.md)
+- [Chicken Tagine](food/recipes/chicken-tagine.md)
 - [Galettes au sarrasin](food/recipes/galettes-au-sarrasin.md)
 - [Hashbrowns](food/recipes/hashbrowns.md)
 - [Kimchi fried rice](food/recipes/kimchi-fried-rice.md)

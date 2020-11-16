@@ -10,12 +10,12 @@
   - cilantro and parsley
   - garlic (minced)
   - 2 tsp paprika
-  - chili powder
   - 1 tsp ground ginger
   - 1 tsp cumin
   - salt/pepper/olive oil
 - Tagine
   - 2 minced onions
+  - chilies
   - some ground turmeric
   - 1 tbsp lemon juice
   - 2 tbsp olive oil
@@ -28,7 +28,7 @@
   - cilantro/parsley
   - lemon pulp
   - garlic
-  - paprika/chili powder/cumin/salt/pepper
+  - paprika/cumin/salt/pepper
   - olive oil
 - put chicken in marinade and massage into the flesh
 - cover and put in the fridge overnight
@@ -39,6 +39,7 @@
   - onions
   - salt/turmeric
   - chicken
+  - chilies
   - rest of marinade
 - cover and cook on low-medium heat for 15-20 minutes until simmerirng
 - reduce heat to low and cook until chicken is tender (about 1 hour)
