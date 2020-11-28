@@ -9,6 +9,8 @@
 - [Galettes au sarrasin](food/recipes/galettes-au-sarrasin.md)
 - [Hashbrowns](food/recipes/hashbrowns.md)
 - [Kimchi fried rice](food/recipes/kimchi-fried-rice.md)
+- [Roasted bell peppers](food/recipes/roasted-bell-peppers.md)
+ 
 
 # Gaming
 - [switch](gaming/switch.md)
