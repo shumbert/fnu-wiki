@@ -6,6 +6,11 @@
   - kecap manis (sweet soy sauce)
   - rendang paste
 - [YT - Black pepper sauce](https://www.youtube.com/watch?v=FlyR4GWbvOc)
+- [Berbere vegetable tagine](https://www.youtube.com/watch?v=_J32CvsAtSg)
+- [Fish tagine with veggies](https://www.youtube.com/watch?v=6StQyI-lCJk)
+- [Tagine of meat and oranges](https://www.youtube.com/watch?v=IXs93QCnICY)
+- [Chicken Tagine With Caramelized Onions](https://www.youtube.com/watch?v=17GxtC3dV1s)
+- [Grilled kefta](https://www.youtube.com/watch?v=W6vwX4y8QYE)
 
 # Links
 - [Qué buen lomo](https://elcomercio.pe/blog/sobremesa/2014/05/que-buen-lomo-gaston-acurio)
