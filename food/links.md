@@ -13,6 +13,7 @@
 - [Grilled kefta](https://www.youtube.com/watch?v=W6vwX4y8QYE)
 - https://www.youtube.com/watch?v=Rs9Z-4D9a-k
 - https://www.youtube.com/watch?v=UqK_ox7FF00
+- https://www.youtube.com/watch?v=v-JmR_wl80I
 
 # Links
 - [Qué buen lomo](https://elcomercio.pe/blog/sobremesa/2014/05/que-buen-lomo-gaston-acurio)
