@@ -22,6 +22,7 @@
 - [Dan Dan Noodles – A Spicy Sichuan Noodle Dish](https://thewoksoflife.com/dan-dan-noodles/)
 - [Boeuf bourguignon](https://www.youtube.com/watch?v=72pXASYZXoQ)
 - [Binging with Babish: Boeuf Bourguignon from Julie & Julia](https://www.youtube.com/watch?v=8DCw_eR_iPA)
+- [How to make Carne Asada](https://www.youtube.com/watch?v=8n4CdyWAd30)
 
 # Youtube - pro home cooks
 - [15 Mistakes to Avoid When Making Pizza at Home](https://www.youtube.com/watch?v=7UB1saPQe-c)
